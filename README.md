@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nakulgarg1424@gmail.com**
 
-- ⚡ Fun fact **I am funny too**
+- ⚡ Fun fact **I love coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
