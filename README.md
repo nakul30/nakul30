@@ -1,3 +1,4 @@
+![image](https://github.com/nakul30/nakul30/assets/96560834/34cb93d3-1b50-4e7b-b1af-44fe9cd81d84)
 <h1 align="center">Hi 👋, I'm Nakul Garg</h1>
 <h3 align="center">A budding Fullstack Developer from India</h3>
 
