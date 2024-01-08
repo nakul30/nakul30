@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nakul30](https://github.com/nakul30)
 
-- 📫 How to reach me **nakulgarg1424@gmail.com**
+- 📫 How to reach me **nakulgarg.003@gmail.com**
 
 - ⚡ Fun fact **I love coding**
 
