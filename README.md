@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul30&label=Profile%20views&color=0e75b6&style=flat" alt="nakul30" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently **Contributing To Opensource**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nakul30](https://github.com/nakul30)
 
